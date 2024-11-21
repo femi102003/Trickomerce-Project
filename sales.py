@@ -11,7 +11,7 @@ def daily_sales(available_items, inventory_records, current_day):
     current_day: (integer) Day number which you want to add as the current day. 
 
     ----------------
-    Function Output: ss
+    Function Output:
     ----------------
     available_items:(integer) This function returns this integer which updates the available items at the current day.
 
